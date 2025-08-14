@@ -1,2 +1,2 @@
 # Base-NFT-Project
-Deployed NFT contract: 0x43692032Cc523bcc2d6cfc19F7Fa0Ebb7cd3A342
+Deployed NFT contract: 0x9c4369bF6fE870Ae50342A3181C8Aee91dCA5d8C
